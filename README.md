@@ -16,7 +16,6 @@ This project serves as a starter template for developing a Flutter blog applicat
 For more comprehensive guidance on Flutter development, check out the [online documentation](https://docs.flutter.dev/), which includes tutorials, samples, and a full API reference.
 
 Features
---------
 
 *   **User Authentication**: Users can sign up and log in to manage their posts.
     
@@ -43,6 +42,7 @@ Before you begin, ensure you have the following installed:
 *   An IDE such as Android Studio, Visual Studio Code, or IntelliJ IDEA
     
 *   A device or emulator for testing
+*   Mysql or firebase
     
 
 Installation
