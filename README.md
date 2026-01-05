@@ -85,9 +85,4 @@ License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Acknowledgements
-----------------
 
-*   [Flutter](https://flutter.dev/) for providing a robust framework for building apps.
-    
-*   [Firebase](https://firebase.google.com/) for backend services and authentication (if applicable).
