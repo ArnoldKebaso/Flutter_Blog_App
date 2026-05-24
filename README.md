@@ -80,9 +80,5 @@ Contributions are welcome! Please follow these steps to contribute:
 6.  Open a pull request.
     
 
-License
--------
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 
